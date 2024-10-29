@@ -1,1 +1,59 @@
+.p1 {
+    background-color: rgba(127, 171, 252, 0.853) ;
+    border: 2px solid red;
+    border-radius: 20px;
+    text-align: center;
+}
 
+.q1 {color: rgb(181, 4, 4);
+}
+
+.w1 {color:  green;
+}
+
+.e1 {
+ text-align: center; background-color: yellow;   
+}
+
+.a1 {text-align: center;background-color: yellow;}
+
+.o1 {color: green;}
+
+button {
+    background-color: aqua;
+    padding: 20px 30px;
+}
+
+.z1 {text-align: center; background-color: yellow   ;}
+
+img {text-align: center;}
+
+
+  
+
+ 
+.green1 {background-color: green;color: white; width:120px ;
+}
+
+.m2 {background-color: #359dbd; border:none; width: 350px; padding:1px; color: aliceblue;
+}
+
+.red {background-color: red; color: white;text-align: center;
+}
+
+.red1 {background-color: red; color: white; text-align: center;
+}
+
+.black {background-color: black; color: white;text-align: center;
+}
+
+.black1 {background-color: black; color: white;text-align: center;
+}
+
+.j1 {background-color: blue; color: white;table,
+  ;width: 600px;}
+
+.y2 {color: green;  
+}
+
+.p9 {background-color: yellow;}
